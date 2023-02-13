@@ -35,16 +35,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "alurabooks-ds",
+  "name": "ds-goldish",
   "author": "Suellen Oliveira",
-  "module": "dist/alurabooks-ds.esm.js",
+  "module": "dist/ds-goldish.esm.js",
   "size-limit": [
     {
-      "path": "dist/alurabooks-ds.cjs.production.min.js",
+      "path": "dist/ds-goldish.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/alurabooks-ds.esm.js",
+      "path": "dist/ds-goldish.esm.js",
       "limit": "10 KB"
     }
   ],
