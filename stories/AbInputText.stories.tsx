@@ -19,5 +19,5 @@ const Template: ComponentStory<typeof AbInputText> = args => (
 export const Input = Template.bind({});
 
 Input.args = {
-  label: 'Uma label qualquer',
+  label: 'Uma label',
 } as InputFieldProps;
