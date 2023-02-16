@@ -2,10 +2,10 @@ import React, { PropsWithChildren } from 'react';
 import styled from 'styled-components';
 
 export const AbCard: React.FC<PropsWithChildren> = ({ children }) => {
-  return <Wrapper>{children}</Wrapper>;
+  return <Container>{children}</Container>;
 };
 
-const Wrapper = styled.section`
+const Container = styled.section`
   background: #fff;
   display: flex;
   flex-direction: row;
